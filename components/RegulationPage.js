@@ -73,7 +73,7 @@ const LanguageLinks = ({ currentLocale }) => {
     <nav>
       <ul>
         {[
-          { title: "Eesti keeles", locale: "ee" },
+          { title: "Eesti keeles", locale: "et" },
           { title: "По-русски", locale: "ru" },
           { title: "In English", locale: "en" },
         ]

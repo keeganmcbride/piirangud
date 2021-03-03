@@ -2,11 +2,11 @@ regulations:
   - category: indoors
     icon: cafe
     title:
-      ee: Avalikud siseruumid
+      et: Avalikud siseruumid
       en: Public indoor spaces
       ru: Общественные внутренние пространства
     content:
-      ee: <p><strong>Jätkuvalt on inimestel maski kandmise või nina ja suu
+      et: <p><strong>Jätkuvalt on inimestel maski kandmise või nina ja suu
         katmise kohustus avalikes siseruumides, sh ühistranspordis</strong></p>
         <p>Kohustus kanda maski või katta nina ja suu kehtib avalikes
         siseruumides, sealhulgas ühistranspordis ning teeninduskohtades (v.a.
@@ -138,11 +138,11 @@ regulations:
   - category: education
     icon: school
     title:
-      ee: Haridus
+      et: Haridus
       en: Education
       ru: Образование
     content:
-      ee: "
+      et: "
         <p><strong>1.-28. märtsini jätkub üldhariduskoolides, kutsekoolides ja
         kõrgkoolides distantsõpe.</strong> Tavapärane õppetöö toimub vaid 1.-4.
         klassi õpilastele.</p> <p><strong>Alates 15. märtsist lubatakse
@@ -189,11 +189,11 @@ regulations:
   - category: sports
     icon: amusementPark
     title:
-      ee: Sport, huvitegevus ja vaba aeg
+      et: Sport, huvitegevus ja vaba aeg
       en: Sports, recreation and leisure
       ru: Спорт, отдых и свободное время
     content:
-      ee: <p><strong>Sportimine, treenimine, noorsootöö, huvitegevus ja
+      et: <p><strong>Sportimine, treenimine, noorsootöö, huvitegevus ja
         täienduskoolitus on lubatud siseruumides kontaktivaba
         individuaaltegevusena ja individuaaltreeninguna, sealhulgas koos
         juhendajaga. Rühmaviisiline tegevus või treening siseruumides lubatud ei
@@ -241,11 +241,11 @@ regulations:
   - category: events
     icon: city
     title:
-      ee: Avalikud üritused
+      et: Avalikud üritused
       en: Public events
       ru: Публичные мероприятия
     content:
-      ee: <p><strong>Vahemikus 3.-28. märtsini ei tohi siseruumides korraldada
+      et: <p><strong>Vahemikus 3.-28. märtsini ei tohi siseruumides korraldada
         avalikke üritusi, sh kinoseansse, kontserte, teatrietendusi ega
         konverentse, niisamuti avalikke jumalateenistusi ja teisi usulisi
         talitusi. Samuti ei tohi viibida meelelahutusteenuse osutamise kohtades,
