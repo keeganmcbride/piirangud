@@ -41,6 +41,7 @@ export const RegulationPage = ({ regulations, metadata }) => {
 };
 
 const Header = ({ locale, metadata }) => {
+  const intl = useIntl();
   return (
     <header className={styles.header}>
       <div>
@@ -50,7 +51,11 @@ const Header = ({ locale, metadata }) => {
         <p>
           <FormattedMessage
             id="time"
-            values={{ time: Date.parse(metadata.lastUpdated) }}
+            values={{
+              time: `${intl.formatDate(metadata.lastUpdated)} ${intl.formatTime(
+                metadata.lastUpdated
+              )}`,
+            }}
           />
         </p>
       </div>

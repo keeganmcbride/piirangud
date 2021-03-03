@@ -1,6 +1,6 @@
 {
   "title": "Текущие ограничения",
-  "time": "с {time, date} {time, time, medium}",
+  "time": "C {time}",
   "iconCredits": "Автор иконок: {eucalyp} от {flaticon}",
   "sources": "Источники"
 }

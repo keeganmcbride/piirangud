@@ -1,6 +1,6 @@
 {
   "title": "Kehtivad piirangud",
-  "time": "Seisuga {time, date} {time, time, medium}",
+  "time": "Seisuga {time}",
   "iconCredits": "Ikoonide autor: {eucalyp} lehel {flaticon}",
   "sources": "Allikad"
 }
