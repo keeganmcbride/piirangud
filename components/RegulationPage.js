@@ -52,9 +52,13 @@ const Header = ({ locale, metadata }) => {
           <FormattedMessage
             id="time"
             values={{
-              time: `${intl.formatDate(metadata.lastUpdated)} ${intl.formatTime(
-                metadata.lastUpdated
-              )}`,
+              time: intl.formatDate(metadata.lastUpdated, {
+                year: "numeric",
+                month: "numeric",
+                day: "numeric",
+                hour: "numeric",
+                minute: "numeric",
+              }),
             }}
           />
         </p>
