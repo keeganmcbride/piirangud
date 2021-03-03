@@ -15,8 +15,26 @@ export const RegulationPage = ({ regulations, metadata }) => {
         <Header locale={locale} metadata={metadata} />
         <main className={styles.main}>
           <Regulations regulations={regulations} />
+          <h2>
+            <FormattedMessage id="sources" />
+          </h2>
+          {metadata.sources.map((source) => (
+            <a key={source} href={source}>
+              {source}
+            </a>
+          ))}
         </main>
-        <footer className={styles.footer}>Piirangud.ee</footer>
+        <footer>
+          <FormattedMessage
+            id="iconCredits"
+            values={{
+              eucalyp: (
+                <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>
+              ),
+              flaticon: <a href="https://www.flaticon.com/">Flaticon</a>,
+            }}
+          />
+        </footer>
       </div>
     </>
   );

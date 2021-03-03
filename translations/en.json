@@ -1,4 +1,6 @@
 {
   "title": "Current restrictions",
-  "time": "As of {time, date} {time, time, medium}"
+  "time": "As of {time, date} {time, time, medium}",
+  "iconCredits": "Icons made by {eucalyp} from {flaticon}",
+  "sources": "Sources"
 }
