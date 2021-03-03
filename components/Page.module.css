@@ -1,0 +1,53 @@
+.main {
+  padding: 5rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  max-width: 64rem;
+}
+
+.container {
+  min-height: 100vh;
+  padding: 64px 64px 32px 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.header nav {
+  margin-top: 32px;
+}
+
+@media all and (max-width: 720px) and (max-resolution: 4dppx),
+  all and (max-width: 720px) and (-webkit-max-device-pixel-ratio: 4) {
+  .container {
+    padding: 32px 16px;
+  }
+
+  .header {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .header nav {
+    margin: 0 0 24px 0;
+  }
+}
+
+.header ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+
+.header li + li {
+  margin-left: 40px;
+}
