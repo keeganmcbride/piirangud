@@ -42,6 +42,23 @@
   }
 }
 
+.main svg {
+  margin-bottom: -8px;
+  margin-right: 8px;
+}
+
+@media all and (max-width: 720px) and (max-resolution: 4dppx),
+  all and (max-width: 720px) and (-webkit-max-device-pixel-ratio: 4) {
+  .main h2 {
+    flex-direction: column;
+    display: flex;
+  }
+
+  .main svg {
+    margin-bottom: 16px;
+  }
+}
+
 .header ul {
   display: flex;
   list-style-type: none;

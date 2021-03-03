@@ -7,11 +7,7 @@ export const Regulations = ({ regulations }) => (
       return (
         <section key={index}>
           <h2>
-            {
-              <IconComponent
-                style={{ marginBottom: "-8px", marginRight: "8px" }}
-              />
-            }
+            <IconComponent />
             {regulation.title}
           </h2>
           <div
