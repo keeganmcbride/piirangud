@@ -5,12 +5,10 @@ import styles from "./Page.module.css";
 import { Regulations } from "./Regulations";
 
 export const RegulationPage = ({ regulations, metadata }) => {
-  const { formatMessage, locale } = useIntl();
+  const { locale } = useIntl();
   return (
     <>
-      <Head>
-        <title>{formatMessage({ id: "title" })}</title>
-      </Head>
+      <Meta />
       <div className={styles.container}>
         <Header locale={locale} metadata={metadata} />
         <main className={styles.main}>
@@ -18,22 +16,20 @@ export const RegulationPage = ({ regulations, metadata }) => {
           <h2>
             <FormattedMessage id="sources" />
           </h2>
-          {metadata.sources.map((source) => (
-            <a key={source} href={source}>
-              {source}
-            </a>
-          ))}
+          <Sources sources={metadata.sources} />
         </main>
         <footer>
-          <FormattedMessage
-            id="iconCredits"
-            values={{
-              eucalyp: (
-                <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>
-              ),
-              flaticon: <a href="https://www.flaticon.com/">Flaticon</a>,
-            }}
-          />
+          <small>
+            <FormattedMessage
+              id="iconCredits"
+              values={{
+                eucalyp: (
+                  <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>
+                ),
+                flaticon: <a href="https://www.flaticon.com/">Flaticon</a>,
+              }}
+            />
+          </small>
         </footer>
       </div>
     </>
@@ -87,5 +83,33 @@ const LanguageLinks = ({ currentLocale }) => {
           ))}
       </ul>
     </nav>
+  );
+};
+
+const Sources = ({ sources }) => {
+  return (
+    <ul className={styles.sources}>
+      {sources.map((source) => (
+        <li key={source.url}>
+          <a href={source.url}>{source.label}</a>
+        </li>
+      ))}
+    </ul>
+  );
+};
+
+const Meta = () => {
+  const { formatMessage } = useIntl();
+  return (
+    <Head>
+      <title>{formatMessage({ id: "title" })}</title>
+      <meta
+        name="description"
+        content={formatMessage({ id: "metaDescription" })}
+      />
+      <link rel="alternate" href="https://piirangud.ee/" hreflang="et" />
+      <link rel="alternate" href="https://piirangud.ee/en" hreflang="en" />
+      <link rel="alternate" href="https://piirangud.ee/ru" hreflang="ru" />
+    </Head>
   );
 };
