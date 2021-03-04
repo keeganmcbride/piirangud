@@ -6,8 +6,8 @@ function MyApp({ Component, pageProps }) {
   const { locale } = pageProps;
   return (
     <IntlProvider
-      locale={pageProps.locale}
-      defaultLocale="ee"
+      locale={locale}
+      defaultLocale="et"
       messages={translations[locale]}
     >
       <Component {...pageProps} />

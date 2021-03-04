@@ -1,5 +1,5 @@
 .main {
-  padding: 5rem 0;
+  padding: 2.5rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -67,4 +67,13 @@
 
 .header li + li {
   margin-left: 40px;
+}
+
+.sources {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sources li + li {
+  margin-top: 8px;
 }
