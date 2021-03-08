@@ -25,7 +25,13 @@ regulations:
         soovijal, sõltumata näiteks eelregistreerimisnõudest; see on koht, kus
         liigub palju inimesi, kes üksteisega igapäevaselt kokku ei puutu.</p>
 
-      en: <p><strong>People continue to have an obligation to wear a mask or
+      en: |
+          <p> Starting on March 11, stores must be closed. The restriction does not apply to grocery stores, pharmacies, shops selling medical devices and aids, telecommunication companies' sales offices, optician shops, pet shops, or petrol stations. Inside petrol station cafes, it is not permitted to eat or drink.</p>
+          <p> Stores that remain open are allowed only up to 25% occupancy and must follow The 2 + 2 rule</p>
+          <p> Other stores are permitted only to engage in window sales, where the goods are delivered without the customer entering the store, drive-in sales, and outdoor sales. The shopkeeper must ensure that customers do not come into contact with each other. </p>
+          <p> Service companies can continue to operate, but the space occupancy limit will be tightened from 50% to 25%. All coronavirus prevention rules must be followed: the 2 + 2 rule, wearing masks, and making hand disinfection stations available according to the instructions of the Health Board. </p>
+
+          <p><strong>People continue to have an obligation to wear a mask or
         cover their nose and mouth in public indoor spaces, including public
         transportation.</strong></p> <p>The obligation to wear a mask or cover
         one's nose and mouth is in force in public indoor spaces, including
@@ -38,37 +44,7 @@ regulations:
         is a space densely populated with people who do not come into daily
         contact with each other.</p>
 
-        <p><strong>The 2+2 rule is still in force in all public indoor
-        spaces</strong></p> <p>The so-called 2+2 rule must be followed in all
-        public indoor spaces, which means that up to two people may move around
-        together, keeping a distance of at least 2 metres from other people. For
-        instance, this rule is in force in the bank office, museum, exhibitions,
-        hair and beauty salons, the lobbies of accommodation providers but also
-        in water parks, swimming pools, saunas. The restriction does not apply
-        to a family moving around together, or if it is not possible to ensure
-        this reasonably, for instance if there are many passengers in public
-        transportation, where, in addition to keeping a maximum possible
-        distance, a mask must also be worn.</p>
 
-        <p><strong>A 50% maximum occupancy requirement still applies in the
-        sales space of a store, service area of a service provider and the
-        common spaces of a commercial establishment</strong></p> <p>It must be
-        ensured that the occupancy does not exceed 50% and that the so-called
-        2+2 rule is followed within that 50% occupancy in all indoor stores,
-        service areas of service providers and common spaces of commercial
-        establishments. This means that first it must be calculated how much 50%
-        of the floor space of the room in public use is and, as customers also
-        have to follow the 2+2 rule, this 50% must be divided by 4 so that each
-        customer would get 4m2.</p>
-
-        <p>A 25% occupancy limit will go into effect for catering and commercial
-        establishments. <strong>Commercial and catering establishments must be
-        closed on weekends, on weekdays, the catering establishments must close
-        their doors at 18.00. Selling food for takeaway is still
-        allowed.</strong> Grocery stores, and stores for essential goods, e.g.
-        pharmacies and opticians may stay open, as may stores that allow for
-        so-called drive-in selling. A requirement to spread out the customers
-        will go into force for open air selling spaces, e.g. markets.</p>
       ru: <p><strong>Все еще в силе требование носить маску или закрывать нос и
         рот в общественных помещениях, в том числе в общественном
         транспорте</strong></p> <p>Обязанность носить маску или закрывать нос и
@@ -121,27 +97,17 @@ regulations:
       en: Education
       ru: Образование
     content:
-      et: "
+      et: |
         <p>Valitsus annab tungiva soovituse mitte viia lapsi ilma hädavajaduseta lasteaeda ega lastehoidu. Haridus- ja teadusministeerium annab juhised, kuidas koolieelses lasteasutuses tööd võimalikult ohutult korraldada.</p>
         <p>Alates 11. märtsist ei tohi koolihoonetes viibida enam ka 1.-4. klassi õpilased, samuti ei lubata kontaktõppele põhikooli lõpueksamiteks ja riigieksamiteks valmistujaid. Samas nähakse ette, et algklasside õpilastel on
         vältimatutel juhtudel võimalik siiski viibida ka koolihoones ja osaleda seal korraldatud tegevustes.</p>
-        <p>Koroonaviiruse leviku tõkestamise piiranguid arvestades, tohib koolis viibida õppija, kes vajab hariduslikke tugiteenuseid, konsultatsioone õpitulemuste saavutamiseks või osaleb praktilises õppes, teeb eksameid või teste.</p>"
-      en: "
-        <p><strong>From March 1 to March 28, distance learning will continue in
-        general education schools, vocational schools and institutions of higher
-        education</strong>. Regular schoolwork will only take place for students
-        in grades 1 to 4.</p> <p><strong>Starting from March 15, the students
-        who are taking the basic school final exams and state exams in the
-        2020/2021 academic year will be allowed to have contact learning two
-        days a week</strong>. The schools have to implement measures necessary
-        for preventing the spread of the virus in accordance with the guidelines
-        of the Ministry of Education and Research.</p> <p>It is only allowed to
-        be in school buildings in special cases: if the students require
-        educational support services or consultations to achieve learning
-        results, are carrying out practical learning, taking exams or tests, or
-        participating in Olympiads, The restrictions also do not apply to
-        students with educational special needs or students who need support
-        services.</p>"
+        <p>Koroonaviiruse leviku tõkestamise piiranguid arvestades, tohib koolis viibida õppija, kes vajab hariduslikke tugiteenuseid, konsultatsioone õpitulemuste saavutamiseks või osaleb praktilises õppes, teeb eksameid või teste.</p>
+      en: |
+        <p> The government strongly recommends not to take children to kindergarten or childcare without an urgent reason. The Ministry of Education and Research will provide instructions on how to organize work in pre-schools as safely as possible. </p>
+        <p> From 11 March, school buildings will no longer be open for students in 1. through 4. class, it is also not permitted for in-person studies for those preparing for their basic school exit examinations or state examinations. However, it is stipulated that primary school students have
+        however, in unavoidable cases, it is also possible to stay in the school building and take part in the activities organized there. </p>
+        <p> Subject to the limitations of preventing the spread of the coronavirus, it is permissible for a student to visit their school if they need educational counselling, consultation to achieve study goals or to participate in practical lessons, or make exams or tests.
+        </p>
       ru: "
         <p><strong>С 1 по 28 марта общеобразовательные школы, профессиональные
         училища и высшие учебные заведения продолжают дистанционное
@@ -165,26 +131,16 @@ regulations:
       ru: Спорт, отдых и свободное время
     content:
       et: |
-              <p>Alates 11. märtsist on siseruumides keelatud kõik tegevused nimetatud valdkondades. Piirang ei laiene erivajadusega inimeste ja rehabilitatsiooni tegevustele.</p><p>Välitingimustes kogu huviharidus, huvitegevus, täiendkoolitus, täiendõpe, noorsootöö, sportimine ja treenimine on lubatud üksnes 2+2 liikumisreeglit arvestades. See tähendab, et koos tohivad liikuda ja sportida maksimaalselt kaks inimest (arvesse läheb ka juhendaja) ning teistest inimestest tuleb hoida vähemalt kahemeetrist vahemaad. Piirangud ei kehti peredele ega erivajadustega inimeste tegevustele, sealhulgas sotsiaalse ja tööalase rehabilitatsiooni teenuse osutamisele.</p><p>Siseruumides ja välitingimustes sportimise piirangud ei laiene ka professionaalsetele sportlastele, koondise liikmetele, koondise kandidaatidele. Samuti ei laiene nimetatud piirangud&nbsp; riigi sõjalise kaitse ja siseturvalisusega seotud tegevustele.</p><p></p>
+              <p>Alates 11. märtsist on siseruumides keelatud kõik tegevused nimetatud valdkondades. Piirang ei laiene erivajadusega inimeste ja rehabilitatsiooni tegevustele.</p><p>Välitingimustes kogu huviharidus, huvitegevus, täiendkoolitus, täiendõpe, noorsootöö, sportimine ja treenimine on lubatud üksnes 2+2 liikumisreeglit arvestades. See tähendab, et koos tohivad liikuda ja sportida maksimaalselt kaks inimest (arvesse läheb ka juhendaja) ning teistest inimestest tuleb hoida vähemalt kahemeetrist vahemaad. Piirangud ei kehti peredele ega erivajadustega inimeste tegevustele, sealhulgas sotsiaalse ja tööalase rehabilitatsiooni teenuse osutamisele.</p><p>Siseruumides ja välitingimustes sportimise piirangud ei laiene ka professionaalsetele sportlastele, koondise liikmetele, koondise kandidaatidele. Samuti ei laiene nimetatud piirangud&nbsp; riigi sõjalise kaitse ja siseturvalisusega seotud tegevustele.</p>
               <p><strong>KEELATUD ON SPORDIVÕISTLUSED NING SPORDI- JA LIIKUMISÜRITUSED </strong></p>
               <p>Jätkuvalt on lubatud spordivõistlused ainult proffidele, kuid keelatakse esiliiga spordivõistlused. Spordivõistlustest ning spordi ja liikumisüritustest tohib osa võtta sisetingimustes maksimaalselt kuni 50 ja välitingimustes maksimaalselt kuni 100 inimest.</p>
-              <p>Nagu varem, ei laiene ka nüüd liikumisürituste piirang erivajadusega inimeste ja rehabilitatsiooni tegevustele. Sarnaselt kehtivale korrale ei laiene spordivõistluste piirang professionaalsetele sportlastele, koondise liikmetele, koondise kandidaadile ja meistriliigale. Piirangud ei laiene riigi sõjalise kaitsega ja siseturvalisusega seotud tegevustele.</p>
 
-      en: <p><strong>Doing sports, training, youth work, hobby activities and
-        refresher training are allowed indoors as a contact free individual
-        activity or individual training, including with an instructor. Indoor
-        group activities or training are not allowed.</strong></p> <p>Starting
-        from March 3, the allowed indoor occupancy will go down to 25%.</p>
-        <p>From March 6, sports competitions and exercise events are allowed
-        only for professional athletes and exercise events are also allowed for
-        people with special needs.</p> <p><strong>From March 3, outdoor sports,
-        training, youth work, hobby activities, informal education and refresher
-        training are subject to the restriction of 10 people per group, instead
-        of the 50 people per group restriction in force thus far</strong>. The
-        group may not come into contact with other groups.</p> <p>Spas, saunas,
-        water parks and swimming facilities will remain closed until March 28,
-        <strong>it is allowed to use swimming pools for individual
-        swimming.</strong></p>
+      en:  |
+                <p> As of March 11, all indoor activities in the listed areas will be prohibited. The restriction does not apply to people with special needs and rehabilitation activities. </p> <p> Outdoor activities, including: all hobby education, hobby activities, in-service training, continuing education, youth work, sports and coaching are allowed only taking into account the 2 + 2 movement rule. This means that a maximum of two people can move and play sports together (the instructor is also taken into account) and a distance of at least two meters must be kept from other people. Restrictions do not apply to families or activities of people with special needs, including the provision of social and occupational rehabilitation services. </p>
+                <p> Restrictions on indoor and outdoor sports do not apply to professional athletes, team members, or prospective team members. These restrictions also do not apply to activities related to the military or the internal security of the country. </p>
+                <p> <strong> SPORTING COMPETITIONS AND TEAM SPORTING EVENTS ARE PROHIBITED </strong> </p>
+                <p> Sports events will only allowed for professionals, but Premier League events will be prohibited. Sports competitions and team sporting events may be attended by a maximum of 50 people indoors and a maximum of 100 people outdoors. </p>
+
       ru: <p><strong>Занятия спортом, ведение тренировок, работа с молодежью,
         неформальное и дополнительное обучение в помещениях разрешено только в
         форме бесконтактных индивидуальных занятий и тренировок, включая занятия
@@ -212,17 +168,12 @@ regulations:
                 <p>Alates 11. märtsist on keelatud ka välitingimustes avalike ürituste läbiviimine ning viibimine meelelahutusteenuse osutamise kohas nii statsionaarsete kui ka mittestatsionaarsete istekohtadega toimumiskohtades. Samuti peavad olema suletud spaad, basseinid, saunad, ujulad.</p>
                 <p>Lubatud on üksnes välitingimustes läbiviidavad avalikud koosolekud ja avalikud jumalateenistused, osavõtjate piirarvuks on kuni 10-inimeselised rühmad. Muuseumide välialadel &nbsp;tohib viibida 2+2 liikumisreeglit järgides arvestusega, et piiratud ruumiga ala täitumus ei tohi olla rohkem kui 25 protsenti.</p>
                 <p>Toitlustusettevõtete puhul jääb lubatuks ainult toidu kaasamüük.</p>
-      en: <p><strong>During the period of March 3 to March 28, it is not allowed
-        to organise indoor public events, including cinema showings, concerts,
-        theatre performances, or conferences, but also public worship services
-        and other religious services. It is also not allowed to be in places
-        where entertainment services are provided, e.g. casino, night club,
-        bowling or pool hall, or children's playrooms, museums and exhibition
-        venues.</strong></p> <p>Outdoor public events and public meetings are
-        allowed in <strong>groups of up to 10 people</strong> and it must be
-        ensured that different groups do not come into contact with each other.
-        It is not allowed to organise public events between the hours of 21.00
-        and 06.00.</p>
+      en: |
+                 <p> <strong> PUBLIC EVENTS, CULTURE, ENTERTAINMENT, SPAS, POOLS, SAUNAS </strong> </p>
+                 <p> From 11 March, outdoor public events and entertainment services, both stationary and temporary,  will  be prohibited. Spas, saunas, swimming pools must also be closed. </p>                 <p> Open-air public meetings and public church services are allowed, with a maximum of 10 participants. Outdoor museum areas may be occupied in accordance with the 2 + 2 rule, provided that the occupancy of the area is not more than 25 per cent </p>
+                 <p> For catering establishments, only food takeaway will be allowed. </p>
+
+
       ru: <p><strong>В период с 3 по 28 марта 2021 запрещено проведение
         общественных мероприятий в помещениях, включая киносеансы, концерты,
         театральные представления и конференции, а также общественные
