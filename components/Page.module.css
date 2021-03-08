@@ -42,7 +42,7 @@
   }
 }
 
-.main svg {
+.icon {
   margin-bottom: -8px;
   margin-right: 8px;
 }
@@ -54,7 +54,7 @@
     display: flex;
   }
 
-  .main svg {
+  .icon {
     margin-bottom: 16px;
   }
 }

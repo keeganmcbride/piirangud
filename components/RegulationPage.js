@@ -3,8 +3,9 @@ import Head from "next/head";
 import { useIntl, FormattedMessage } from "react-intl";
 import styles from "./Page.module.css";
 import { Regulations } from "./Regulations";
+import { Notice } from "./Notice";
 
-export const RegulationPage = ({ regulations, metadata }) => {
+export const RegulationPage = ({ regulations, metadata, notice }) => {
   const { locale } = useIntl();
   return (
     <>
@@ -12,6 +13,7 @@ export const RegulationPage = ({ regulations, metadata }) => {
       <div className={styles.container}>
         <Header locale={locale} metadata={metadata} />
         <main className={styles.main}>
+          {notice && <Notice {...notice} />}
           <Regulations regulations={regulations} />
           <h2>
             <FormattedMessage id="sources" />
