@@ -3,7 +3,6 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  align-items: left;
   max-width: 64rem;
 }
 
@@ -12,7 +11,6 @@
   padding: 64px 64px 32px 64px;
   display: flex;
   flex-direction: column;
-  align-items: left;
 }
 
 .header {
@@ -42,20 +40,11 @@
   }
 }
 
-.icon {
-  margin-bottom: -8px;
-  margin-right: 8px;
-}
-
 @media all and (max-width: 720px) and (max-resolution: 4dppx),
   all and (max-width: 720px) and (-webkit-max-device-pixel-ratio: 4) {
   .main h2 {
     flex-direction: column;
     display: flex;
-  }
-
-  .icon {
-    margin-bottom: 16px;
   }
 }
 
