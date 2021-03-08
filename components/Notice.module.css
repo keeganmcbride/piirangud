@@ -28,21 +28,20 @@
   text-decoration: none;
   transition: background-color 0.15s ease-in-out;
   flex-wrap: nowrap;
+  align-items: center;
 }
 
 .cta:hover {
   background-color: #ffc77b;
 }
 
-.cta::after {
-  content: "→";
-  display: inline-block;
+.arrow {
   margin-left: 8px;
-  margin-bottom: -2px;
   transition: transform 0.15s ease-in-out;
   transform: translateX(0%);
+  overflow: visible;
 }
 
-.cta:hover::after {
+.cta:hover .arrow {
   transform: translateX(25%);
 }

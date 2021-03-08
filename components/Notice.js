@@ -13,6 +13,7 @@ export const Notice = ({ content, cta, url }) => (
       rel="noopener noreferrer"
     >
       {cta}
+      <ArrowIcon className={styles.arrow} />
     </a>
   </div>
 );
@@ -34,6 +35,21 @@ const InfoIcon = (props) => (
     <path
       d="M17.961 6.94H14.03l.353 12.529h3.234l.344-12.53zM16 25.06c1.13 0 2.112-.935 2.12-2.097-.008-1.144-.99-2.079-2.12-2.079-1.166 0-2.13.935-2.12 2.08-.01 1.161.954 2.096 2.12 2.096z"
       fill="#FF9F1C"
+    />
+  </svg>
+);
+
+const ArrowIcon = (props) => (
+  <svg
+    width={12}
+    height={12}
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
+    <path
+      d="M5.966 11.636l5.727-5.727L5.966.182 4.648 1.494l3.46 3.455H0v1.92h8.108l-3.46 3.46 1.318 1.307z"
+      fill="#402500"
     />
   </svg>
 );
