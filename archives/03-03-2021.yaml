@@ -6,15 +6,7 @@ regulations:
       en: Public indoor spaces
       ru: Общественные внутренние пространства
     content:
-      et: |
-
-        <strong>2+2 LIIKUMISREEGLIT TULEB HAKATA JÄRGIMA KA ÕUES</strong>
-        <p>Alates 11. märtsist peavad poed olema suletud. Piirang ei kehti toidukauplustele, apteekidele, kauplustele, kus müüakse abivahendeid ja meditsiiniseadmeid, telekommunikatsiooniettevõtete esinduste müügikohtadele, optikapoodidele, lemmikloomapoodidele ega tanklatele. Tanklakohvikus kohapeal süüa-juua ei tohi.</p>
-        <p>Poodides, mis tohivad jääda avatuks, tuleb arvestada ruumi kuni 25 protsendilise täitumuse nõudega&nbsp;ja 2+2 liikumispiiranguga.</p>
-        <p>Muudel juhtudel on lubatud üksnes nii nimetatud luugimüük, kus kaup väljastatakse kliendile ilma kliendi sisenemiseta siseruumides asuvasse müügisaali; drive-in tüüpi müük ning müük välialadel. Poepidaja peab tagama, et kliendid omavahel kokku ei puutuks.</p>
-        <p>Teenindusettevõtted tohivad oma tegevust jätkata, kuid rangemaks muutub ruumitäitumuse piirang, mida alandatakse 50lt protsendilt kuni 25le protsendile. Järgida tuleb kõiki koroonaviiruse leviku tõkestamise reegleid:&nbsp;2+2 reeglit, maskikandmist, desinfitseerimisnõuete täitmist vastavalt terviseameti juhistele.</p>
-
-        <p><strong>Jätkuvalt on inimestel maski kandmise või nina ja suu
+      et: <p><strong>Jätkuvalt on inimestel maski kandmise või nina ja suu
         katmise kohustus avalikes siseruumides, sh ühistranspordis</strong></p>
         <p>Kohustus kanda maski või katta nina ja suu kehtib avalikes
         siseruumides, sealhulgas ühistranspordis ning teeninduskohtades (v.a.
@@ -25,6 +17,35 @@ regulations:
         soovijal, sõltumata näiteks eelregistreerimisnõudest; see on koht, kus
         liigub palju inimesi, kes üksteisega igapäevaselt kokku ei puutu.</p>
 
+        <p><strong>2+2 reegel kehtib endiselt kõikides avalikes
+        siseruumides</strong></p> <p>Kõikjal avalikes siseruumides tuleb järgida
+        nn 2+2 reeglit, mis tähendab, et koos saavad liikuda kuni kaks inimest,
+        kes peavad teistest inimestest hoidma kahemeetrist vahemaad. See reegel
+        kehtib muuhulgas näiteks pangakontoris, muuseumis, näitustel, juuksuri-
+        ja ilusalongides, majutusasutuse fuajees, kuid samuti veekeskustes,
+        ujulates, saunades. Piirang ei kehti koos liikuvale perekonnale või ka
+        siis, kui seda pole võimalik mõistlik tagada, näiteks paljude reisijate
+        korral ühistranspordis, kus lisaks maksimaalse võimaliku distantsi
+        hoidmisele tuleb kanda ka maski.</p>
+
+        <p><strong>Siseruumis asuvas kaupluse müügisaalis, teenuse osutaja
+        teenindussaalis ning kaubandusettevõtte üldkasutatavas ruumis on
+        jätkuvalt 50% täituvuse nõue</strong></p> <p>Kõikides siseruumis
+        asuvates kauplustes, teenuse osutaja teenindussaalides ja
+        kaubandusettevõtte üldkasutatavates ruumides tuleb tagada täituvus kuni
+        50% ulatuses ning selle 50% täituvuse raames ka nn 2+2 reegli järgimine.
+        Seega tuleb kõigepealt välja arvutada ruumi avalikuks kasutuseks olevast
+        põrandapinnast 50%, ja kuna kliendid peavad järgima ka 2+2 reeglit, siis
+        tuleb see 50% jagada 4-ga, et igale kliendile jaguks 4m2.</p>
+
+        <p>Toitlustusasutustes ja kaubandusettevõtetes hakkab kehtima 25
+        protsendi täitumuse piirang. <strong>Nädalavahetustel peavad kaubandus-
+        ja toitlustusettevõtted olema suletud, argipäeviti peavad
+        toitlustusettevõtted uksed sulgema kell 18, toidu kaasamüük jääb
+        lubatuks</strong>. Avatuks tohivad jääda toidupoed ning esmavajalikud
+        poed, näiteks apteegid ja prillipoed, samuti nn drive-in-müüki
+        võimaldavad kauplused. Välimüügi aladele, näiteks turgudele, hakkab
+        kehtima klientide hajutatuse nõue.</p>
       en: <p><strong>People continue to have an obligation to wear a mask or
         cover their nose and mouth in public indoor spaces, including public
         transportation.</strong></p> <p>The obligation to wear a mask or cover
@@ -122,10 +143,18 @@ regulations:
       ru: Образование
     content:
       et: "
-        <p>Valitsus annab tungiva soovituse mitte viia lapsi ilma hädavajaduseta lasteaeda ega lastehoidu. Haridus- ja teadusministeerium annab juhised, kuidas koolieelses lasteasutuses tööd võimalikult ohutult korraldada.</p>
-        <p>Alates 11. märtsist ei tohi koolihoonetes viibida enam ka 1.-4. klassi õpilased, samuti ei lubata kontaktõppele põhikooli lõpueksamiteks ja riigieksamiteks valmistujaid. Samas nähakse ette, et algklasside õpilastel on
-        vältimatutel juhtudel võimalik siiski viibida ka koolihoones ja osaleda seal korraldatud tegevustes.</p>
-        <p>Koroonaviiruse leviku tõkestamise piiranguid arvestades, tohib koolis viibida õppija, kes vajab hariduslikke tugiteenuseid, konsultatsioone õpitulemuste saavutamiseks või osaleb praktilises õppes, teeb eksameid või teste.</p>"
+        <p><strong>1.-28. märtsini jätkub üldhariduskoolides, kutsekoolides ja
+        kõrgkoolides distantsõpe.</strong> Tavapärane õppetöö toimub vaid 1.-4.
+        klassi õpilastele.</p> <p><strong>Alates 15. märtsist lubatakse
+        õpilastel, kes teevad 2020/2021 õppeaastal põhikooli lõpueksameid ja
+        riigieksameid, kontaktõppele kahel päeval nädalas.</strong> Koolid
+        peavad rakendama viiruse leviku ennetamiseks vajalikke meetmeid
+        vastavalt haridus- ja teadusministeeriumi juhistele.</p> <p>Õppehoonetes
+        võib viibida üksnes erijuhul: kui õppijad vajavad hariduslikke
+        tugiteenuseid või õpitulemuste saavutamiseks konsultatsiooni, sooritavad
+        praktilist õpet, eksameid või teste või osalevad olümpiaadidel. Samuti
+        ei puuduta piirangud hariduslike erivajadustega õpilasi või õpilasi, kes
+        vajavad tugiteenuseid.</p>"
       en: "
         <p><strong>From March 1 to March 28, distance learning will continue in
         general education schools, vocational schools and institutions of higher
@@ -164,12 +193,21 @@ regulations:
       en: Sports, recreation and leisure
       ru: Спорт, отдых и свободное время
     content:
-      et: |
-              <p>Alates 11. märtsist on siseruumides keelatud kõik tegevused nimetatud valdkondades. Piirang ei laiene erivajadusega inimeste ja rehabilitatsiooni tegevustele.</p><p>Välitingimustes kogu huviharidus, huvitegevus, täiendkoolitus, täiendõpe, noorsootöö, sportimine ja treenimine on lubatud üksnes 2+2 liikumisreeglit arvestades. See tähendab, et koos tohivad liikuda ja sportida maksimaalselt kaks inimest (arvesse läheb ka juhendaja) ning teistest inimestest tuleb hoida vähemalt kahemeetrist vahemaad. Piirangud ei kehti peredele ega erivajadustega inimeste tegevustele, sealhulgas sotsiaalse ja tööalase rehabilitatsiooni teenuse osutamisele.</p><p>Siseruumides ja välitingimustes sportimise piirangud ei laiene ka professionaalsetele sportlastele, koondise liikmetele, koondise kandidaatidele. Samuti ei laiene nimetatud piirangud&nbsp; riigi sõjalise kaitse ja siseturvalisusega seotud tegevustele.</p><p></p>
-              <p><strong>KEELATUD ON SPORDIVÕISTLUSED NING SPORDI- JA LIIKUMISÜRITUSED </strong></p>
-              <p>Jätkuvalt on lubatud spordivõistlused ainult proffidele, kuid keelatakse esiliiga spordivõistlused. Spordivõistlustest ning spordi ja liikumisüritustest tohib osa võtta sisetingimustes maksimaalselt kuni 50 ja välitingimustes maksimaalselt kuni 100 inimest.</p>
-              <p>Nagu varem, ei laiene ka nüüd liikumisürituste piirang erivajadusega inimeste ja rehabilitatsiooni tegevustele. Sarnaselt kehtivale korrale ei laiene spordivõistluste piirang professionaalsetele sportlastele, koondise liikmetele, koondise kandidaadile ja meistriliigale. Piirangud ei laiene riigi sõjalise kaitsega ja siseturvalisusega seotud tegevustele.</p>
-
+      et: <p><strong>Sportimine, treenimine, noorsootöö, huvitegevus ja
+        täienduskoolitus on lubatud siseruumides kontaktivaba
+        individuaaltegevusena ja individuaaltreeninguna, sealhulgas koos
+        juhendajaga. Rühmaviisiline tegevus või treening siseruumides lubatud ei
+        ole.</strong></p> <p>Alates 3. märtsist väheneb lubatud täitumus
+        sisetingimustes 25 protsendile. </p> <p>Spordivõistlused ja
+        liikumisüritused on alates 6. märtsist lubatud ainult
+        professionaalsetele sportlastele ning liikumisüritused ka erivajadusega
+        inimestele.</p> <p><strong>Välitingimustes sportimisele treenimisele,
+        noorsootööle, huvitegevusele ja -haridusele, täiendkoolitusele ning
+        -õppele lubatakse 3. märtsist senise 50-liikmelise grupi asemel kuni
+        10-inimeselised rühmad</strong>, kes ei tohi teiste rühmadega kokku
+        puutuda. </p> <p>Spaad, saunad, veekeskused ja ujulad jäävad suletuks
+        kuni 28. märtsini, <strong>basseinide kasutamine on lubatud
+        individuaalseks ujumiseks.</strong></p>
       en: <p><strong>Doing sports, training, youth work, hobby activities and
         refresher training are allowed indoors as a contact free individual
         activity or individual training, including with an instructor. Indoor
@@ -207,11 +245,16 @@ regulations:
       en: Public events
       ru: Публичные мероприятия
     content:
-      et: |
-                <p><strong>AVALIKUD ÜRITUSED, KULTUUR, MEELELAHUTUS, SPAAD, BASSEINID SAUNAD</strong></p>
-                <p>Alates 11. märtsist on keelatud ka välitingimustes avalike ürituste läbiviimine ning viibimine meelelahutusteenuse osutamise kohas nii statsionaarsete kui ka mittestatsionaarsete istekohtadega toimumiskohtades. Samuti peavad olema suletud spaad, basseinid, saunad, ujulad.</p>
-                <p>Lubatud on üksnes välitingimustes läbiviidavad avalikud koosolekud ja avalikud jumalateenistused, osavõtjate piirarvuks on kuni 10-inimeselised rühmad. Muuseumide välialadel &nbsp;tohib viibida 2+2 liikumisreeglit järgides arvestusega, et piiratud ruumiga ala täitumus ei tohi olla rohkem kui 25 protsenti.</p>
-                <p>Toitlustusettevõtete puhul jääb lubatuks ainult toidu kaasamüük.</p>
+      et: <p><strong>Vahemikus 3.-28. märtsini ei tohi siseruumides korraldada
+        avalikke üritusi, sh kinoseansse, kontserte, teatrietendusi ega
+        konverentse, niisamuti avalikke jumalateenistusi ja teisi usulisi
+        talitusi. Samuti ei tohi viibida meelelahutusteenuse osutamise kohtades,
+        nt kasiinos, ööklubis, keegli- või piljardisaalis ega laste mängutoas,
+        muuseumides ja näituseasutustes.</strong></p> <p>Välitingimustes on
+        avalikud üritused ja avalikud koosolekud lubatud <strong>kuni
+        10-liikmelistes rühmades</strong> ja tagatud peab olema, et erinevad
+        rühmad omavahel kokku ei puutu. Avalikke üritusi ei tohi korraldada
+        ajavahemikus kella 21.00-st kuni 6.00-ni. </p>
       en: <p><strong>During the period of March 3 to March 28, it is not allowed
         to organise indoor public events, including cinema showings, concerts,
         theatre performances, or conferences, but also public worship services
@@ -235,7 +278,7 @@ regulations:
         до 06:00 проведение общественных мероприятий запрещено.</p>
 
 metadata:
-  lastUpdated: 08.03.2021 23:00
+  lastUpdated: 03.03.2021 09:49
   sources:
     et:
       - label: Kriis.ee | Piirangud igapäevaelus sh kaubanduskeskused, ühistransport, meelelahutus, kirikud, perekondlikud sündmused
