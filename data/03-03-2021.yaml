@@ -300,13 +300,13 @@ metadata:
 
 notice:
   content:
-    et: Piirangud uuenevad neljapäeval, 11. märtsil. Kehtivate piirangute veebileht uueneb piirangute jõustumisel, seni saab planeeritud piirangutega tutvuda Valitsuse Kommunikatsioonibüroo kodulehel.
-    en: Piirangud uuenevad neljapäeval, 11. märtsil. Kehtivate piirangute veebileht uueneb piirangute jõustumisel, seni saab planeeritud piirangutega tutvuda Valitsuse Kommunikatsioonibüroo kodulehel.
-    ru: Piirangud uuenevad neljapäeval, 11. märtsil. Kehtivate piirangute veebileht uueneb piirangute jõustumisel, seni saab planeeritud piirangutega tutvuda Valitsuse Kommunikatsioonibüroo kodulehel.
+    et: Piirangud uuenevad neljapäeval, 11. märtsil. See veebileht uueneb piirangute jõustumisel, seni saab planeeritud piirangutega tutvuda Valitsuse Kommunikatsioonibüroo kodulehel.
+    en: Restrictions will be renewed on Thursday, March 11. This website will be updated when the restrictions come into force. In the meantime, the planned restrictions are available on the website of the Government Communications Office.
+    ru: Ограничения будут возобновлены в четверг, 11 марта. Этот веб-сайт будет обновлен после вступления в силу ограничений; тем временем запланированные ограничения будут доступны на веб-сайте Управления правительственной связи.
   cta:
     et: Vaata tulevaid piiranguid
-    en: Vaata tulevaid piiranguid
-    ru: Vaata tulevaid piiranguid
+    en: See upcoming restrictions
+    ru: Смотрите предстоящие ограничения
   url:
     et: https://valitsus.ee/uudised/koroonaviiruse-leviku-tokestamise-ranged-piirangud-kehtivad-vahemalt-uks-kuu
     en: https://valitsus.ee/uudised/koroonaviiruse-leviku-tokestamise-ranged-piirangud-kehtivad-vahemalt-uks-kuu

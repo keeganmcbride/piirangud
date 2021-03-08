@@ -6,7 +6,12 @@ export const Notice = ({ content, cta, url }) => (
 
     <p className={styles.content}>{content}</p>
 
-    <a href={url} className={styles.cta} target="_blank">
+    <a
+      href={url}
+      className={styles.cta}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       {cta}
     </a>
   </div>
