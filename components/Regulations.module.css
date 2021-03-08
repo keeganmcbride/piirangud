@@ -1,3 +1,15 @@
 .section + .section {
   margin-top: 16px;
 }
+
+.icon {
+  margin-bottom: -8px;
+  margin-right: 8px;
+}
+
+@media all and (max-width: 720px) and (max-resolution: 4dppx),
+  all and (max-width: 720px) and (-webkit-max-device-pixel-ratio: 4) {
+  .icon {
+    margin-bottom: 16px;
+  }
+}

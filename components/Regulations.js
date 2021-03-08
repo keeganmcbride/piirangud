@@ -12,7 +12,7 @@ export const Regulations = ({ regulations }) => (
           className={styles.section}
         >
           <h2>
-            <IconComponent />
+            <IconComponent className={styles.icon} />
             <a href={`#${regulation.category}`}>{regulation.title}</a>
           </h2>
           <div
