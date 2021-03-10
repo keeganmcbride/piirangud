@@ -12,6 +12,7 @@ regulations:
           kus seda pole võimalik mõistlikult täita. 2+2 reeglit tuleb järgida igal pool avalikus ruumis liikumisel,
           nii tänavatel, mänguväljakutel, pargis ja parklates, kuid ka looduses liikudes,
           kui näiteks rabamatkal kohtab teisi inimesi. 2+2 reegel kehtib juba varasemast kõikjal avalikus siseruumis.</p>
+          <p>Kohustus kanda maski või katta nina ja suu kehtib avalikes siseruumides, sealhulgas ühistranspordis ning teeninduskohtades (v.a. alla 12-aastastele lapsed või juhul, kui maski kandmine ei ole tervislikel põhjustel, erivajaduse, töö või tegevuse iseloomu tõttu või muid olulisi põhjuseid arvestades võimalik). Avalikuks siseruumiks on avalikuks kasutamiseks mõeldud ruum, kuhu on võimalik siseneda igal soovijal, sõltumata näiteks eelregistreerimisnõudest; see on koht, kus liigub palju inimesi, kes üksteisega igapäevaselt kokku ei puutu.</p>
           <p><strong>Toitlustusettevõtted</strong></p>
           <p>Alates 11. märtsist on keelatud toitlustusettevõtte müügi- või teenindussaalis kohapeal söömine-joomine. Lubatuks jääb ainult toidu kaasamüük. Toidu kaasamüümisel tuleb jälgida, et ruumi täitumus ei ületaks 25 protsenti, kehtib maskikandmise kohustus ja järgida tuleb 2+2 reeglit.&nbsp; Väliterrassidel teenuse osutamine ei ole lubatud.</p>
           <p>Piirang kehtib ka toitlustusele hotellides ja muudes majutusettevõtes. Klientidele tohib toitu kaasa müüa või pakkuda toitlustust näiteks toateeninduse kaudu.</p>
@@ -26,6 +27,7 @@ regulations:
           <p>Lisaks piirangutele soovitab valitsus tungivalt vältida erapidude korraldamist ning vähendada kontakte teiste inimestega miinimumini. Kui kohtumine on hädavajalik, ei tohiks seda teha korraga rohkem kui kuue inimesega.</p>
       en: |
           <p>The 2+2 rule will be in force in public outdoor spaces as well. Starting from March 11, no more than two people can move around in a public outdoor space together, keeping a distance of at least 2 metres from others. The restriction does not extend to families moving around together or situations where it cannot be reasonably adhered to. The 2+2 rule must be followed everywhere in public spaces, on streets, playgrounds, in parks and parking lots, but also when moving around in nature, for instance when you meet other people on a bog hike. The 2+2 has already been in force in all public indoor spaces.</p>
+          <p>The requirement to wear a mask or cover the nose and mouth is in force in public indoor spaces, including in public transportation and service facilities (except for children under the age of 12 or if wearing a mask is not possible due to health considerations, special need, the nature of the work or activity or some other substantial reason). A public indoor space is a space designated for public use that can be entered by anyone wishing to do so, without, for instance, a requirement to register in advance; it is a space densely populated with people who do not come into daily contact with each other.</p>
           <strong>Catering establishments</strong>
           <p>Starting from March 11 it is prohibited to eat and drink onsite at the sales or service areas of a catering establishment. It will only be allowed to sell food for takeaway. When selling food for takeaway, it must be ensured that the occupancy of the room does not exceed 25%, the obligation to wear a mask and the 2+2 rule are followed. It is not allowed to provide the service on outdoor terraces.
           The restriction also applies to catering at hotels and other accommodation providers. It is allowed to sell food to go to the customers or, for instance, offer catering through room service.</p>
@@ -40,6 +42,7 @@ regulations:
 
       ru: |
           <strong>Правило 2+2 начнет действовать в публичных местах и вне помещений</strong>
+          <p>Требование носить маску или закрывать рот и нос в общественных помещениях, в том числе в общественном транспорте и местах обслуживания (за исключением детей младше 12 лет или в случае, когда люди не могут носить маску из соображений здоровья, в силу особых потребностей, характера работы или деятельности либо по иной веской причине). Общественное помещение – это помещение, предназначенное для общественного пользования, доступное любому желающему и не требующее, например, предварительной регистрации; это место, по которому перемещается много людей, не контактирующих друг с другом ежедневно. </p>
           <p>C 11 марта в публичных местах вне помещений разрешено передвигаться максимум вдвоем, соблюдая с другими окружающими дистанцию не менее двух метров. Ограничение не распространяется на семьи и ситуации, когда его разумное соблюдение не представляется возможным. Правило 2+2 следует соблюдать везде, передвигаясь в общественном пространстве, как на улицах, детских площадках, в парках и на парковках, так и на природе, когда, например, во время похода вы встречаете других людей. Правило 2+2 уже и раньше действовало везде в публичном пространстве внутри помещений.</p>
           <p><strong>Общепит</strong></p>
           <p>С 11 марта запрещено есть и пить в залах обслуживания предприятий общественного питания. Разрешена только продажа еды навынос. Во время продажи еды навынос необходимо следить, чтобы помещение было заполнено не более, чем на 25%, носить маски и придерживаться правила 2+2.&nbsp; Обслуживать на террасе запрещено.</p>
@@ -155,7 +158,7 @@ metadata:
   sources:
     et:
       - label: Kriis.ee | Piirangud igapäevaelus sh kaubanduskeskused, ühistransport, meelelahutus, kirikud, perekondlikud sündmused
-        url: https://kkk.kriis.ee/et/kkk/piirangud-igapaevaelus-sh-kaubanduskeskused-uhistransport-meelelahutus-kirikud-perekondlikud-s
+        url: https://kkk.kriis.ee/et/kkk/piirangud-igapaevaelus
       - label: Kehtivad piirangud
         url: https://www.kriis.ee/et/kehtivad-piirangud-ja-nende-leevendused
       - label: Vabariigi Valitsuse 19. augusti 2020. a korralduse nr 282 „COVID-19 haiguse leviku tõkestamiseks vajalikud meetmed ja piirangud“ muutmine
@@ -164,14 +167,14 @@ metadata:
         url: https://www.riigiteataja.ee/viitedLeht.html?id=7
     en:
       - label: Kriis.ee | Restrictions in everyday life, including shopping centres, public transport, entertainment, family events
-        url: https://kkk.kriis.ee/en/faq/restrictions-in-everyday-life-including-shopping-centres-public-transport-entertainment-family-e
-      - label: Riigi Teataja | Measures and restrictions necessary for preventing the spread of COVID-19
-        url: https://www.riigiteataja.ee/viitedLeht.html?id=8
+        url: https://kkk.kriis.ee/en/faq/restrictions-in-everyday-life
       - label: Strict restrictions are in force all over Estonia from March 11
         url: https://www.kriis.ee/en/news/strict-restrictions-are-force-all-over-estonia-march-11
+      - label: Riigi Teataja | Measures and restrictions necessary for preventing the spread of COVID-19
+        url: https://www.riigiteataja.ee/viitedLeht.html?id=8
     ru:
       - label: Kriis.ee | Повседневные ограничения, включая торговые центры, общественный транспорт, развлечения, семейные праздники
-        url: https://kkk.kriis.ee/ru/czv/povsednevnye-ogranicheniya-vklyuchaya-torgovye-tsentry-obshtestvennyy-transport-razvlecheniya-se
+        url: https://kkk.kriis.ee/ru/czv/povsednevnye-ogranicheniya
       - label: Действующие ограничения
         url: https://www.kriis.ee/ru/deystvuyushchie-ogranicheniya
       - label: Riigi Teataja | Меры и ограничения, необходимые для предотвращения распространения заболевания COVID-19
