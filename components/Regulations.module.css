@@ -10,6 +10,10 @@
   margin-top: 0px;
 }
 
+.section li + li {
+  margin-top: 4px;
+}
+
 .icon {
   margin-bottom: -8px;
   margin-right: 8px;
