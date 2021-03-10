@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
 import { useIntl, FormattedMessage } from "react-intl";
+import { parse } from "date-fns";
 import styles from "./Page.module.css";
 import { Regulations } from "./Regulations";
 import { Notice } from "./Notice";
@@ -40,6 +41,7 @@ export const RegulationPage = ({ regulations, metadata, notice }) => {
 
 const Header = ({ locale, metadata }) => {
   const intl = useIntl();
+  const parsedDate = parse(metadata.lastUpdated, "u-MM-dd mm:HH", new Date());
   return (
     <header className={styles.header}>
       <div>
@@ -50,7 +52,7 @@ const Header = ({ locale, metadata }) => {
           <FormattedMessage
             id="time"
             values={{
-              time: intl.formatDate(metadata.lastUpdated, {
+              time: intl.formatDate(parsedDate, {
                 year: "numeric",
                 month: "numeric",
                 day: "numeric",
