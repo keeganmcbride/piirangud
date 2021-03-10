@@ -1,4 +1,5 @@
- - category: indoors
+regulations:
+  - category: indoors
     icon: cafe
     title:
       et: Avalikud siseruumid
@@ -38,6 +39,7 @@
         <p>Enterprises that provide services may continue their activities but the occupancy limit will become stricter starting from March 11. The occupancy requirement will be reduced to 25% from the previous 50%. All rules aiming to stop the spread of the coronavirus must be followed: the 2+2 rule, the obligation to wear a mask, following the disinfection requirements in accordance with the guidelines of the Health Board.</p>
         <p>The service providers that may continue their activities are, for instance, post offices, bank offices, libraries, beauty and hair salons, shoe and watch repair shops, car repair shops, tire change points etc. The mobile phone stores that offer mobile phone and computer repair services are also service providers.
         In addition to the restrictions, the government very strongly recommends that organising private parties be avoided and contacts with other people be reduced to a minimum. If a meeting is urgent, no more than six people should participate at it at once.</p>
+
       ru: |
         <strong>Правило 2+2 начнет действовать в публичных местах и вне помещений</strong>
         <p>Требование носить маску или закрывать рот и нос в общественных помещениях, в том числе в общественном транспорте и местах обслуживания (за исключением детей младше 12 лет или в случае, когда люди не могут носить маску из соображений здоровья, в силу особых потребностей, характера работы или деятельности либо по иной веской причине). Общественное помещение – это помещение, предназначенное для общественного пользования, доступное любому желающему и не требующее, например, предварительной регистрации; это место, по которому перемещается много людей, не контактирующих друг с другом ежедневно. </p>
@@ -57,7 +59,8 @@
   - category: education
     icon: school
     title:
-	@@ -64,116 +114,146 @@ regulations:
+      et: Haridus
+      en: Education
       ru: Образование
     content:
       et: |
@@ -88,6 +91,7 @@
         <p>Alates 11. märtsist on spordivõistlused nii sise- kui ka välitingimustes lubatud ainult siis, kui nendes osalevad spordialaliidu võistlussüsteemis võistlevad professionaalsed sportlased ning Eesti täiskasvanute ja noorte koondiste liikmed ja kandidaadid ning võistkondlike sportmängude meistriliigade sportlased. Esiliiga spordivõistlused on keelatud.</p>
         <p>Spordivõistlustest ning spordi ja liikumisüritustest tohib osa võtta sisetingimustes maksimaalselt kuni 50 ja välitingimustes maksimaalselt kuni 100 inimest.</p>
         <p>Nagu varem, ei laiene ka nüüd liikumisürituste piirang erivajadusega inimeste ja rehabilitatsiooni tegevustele. Piirangud ei laiene ka riigi sõjalise kaitse ja siseturvalisusega seotud tegevustele.</p>
+
       en: |
         <p>Starting from March 11, it is prohibited to carry out any of the abovementioned activities in public indoor spaces.
         <p>Indoor training activities may continue only for professional athletes in a competition system of a sports federation, members and candidates of Estonian national adult and youth teams and athletes of the teams in the highest national divisions. Members of the second national division teams are not allowed to train indoors.</p>
@@ -147,12 +151,12 @@
         <p>На уличной территории музеев необходимо следить за тем, чтобы территория была заполнена не более, чем на 25%, и соблюдать правило 2+2. В публичных собраниях и религиозных обрядах может принимать участие не более 10 человек.</p>
 
 metadata:
-  lastUpdated: 2021-03-11 00:00
+  lastUpdated: 11.03.2021 00:00
   sources:
     et:
       - label: Kriis.ee | Piirangud igapäevaelus sh kaubanduskeskused, ühistransport, meelelahutus, kirikud, perekondlikud sündmused
         url: https://kkk.kriis.ee/et/kkk/piirangud-igapaevaelus
-      - label: Kriis.ee | Kehtivad piirangud
+      - label: Kriis.ee |Kehtivad piirangud
         url: https://www.kriis.ee/et/kehtivad-piirangud-ja-nende-leevendused
       - label: Kriis.ee | Vabariigi Valitsuse 19. augusti 2020. a korralduse nr 282 „COVID-19 haiguse leviku tõkestamiseks vajalikud meetmed ja piirangud“ muutmine
         url: https://www.kriis.ee/sites/default/files/eriolukord/2021.03.9_k111_vv.pdf
