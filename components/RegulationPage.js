@@ -54,7 +54,7 @@ const Header = ({ locale, metadata }) => {
             values={{
               time: intl.formatDate(parsedDate, {
                 year: "numeric",
-                month: "numeric",
+                month: "long",
                 day: "numeric",
                 hour: "numeric",
                 minute: "numeric",
