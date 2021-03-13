@@ -4,6 +4,6 @@
   "time": "C {time}",
   "sources": "Источники",
   "iconCredits": "Автор иконок: {eucalyp} от {flaticon}",
-  "analyticsCredits": "We're using privacy-friendly analytics by {plausible}",
-  "openSource": "This page is open source on {github}"
+  "analyticsCredits": "Мы используем уважающую конфиденциальность аналитику от {plausible}",
+  "openSource": "Эта страница с открытым исходным кодом на {github}"
 }
