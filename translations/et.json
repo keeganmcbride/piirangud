@@ -2,6 +2,8 @@
   "title": "Kehtivad piirangud",
   "metaDescription": "Loe Eesti valitsuse kehtestatud piiranguid seoses COVID-19 pandeemiaga",
   "time": "Seisuga {time}",
+  "sources": "Allikad",
   "iconCredits": "Ikoonide autor: {eucalyp} lehel {flaticon}",
-  "sources": "Allikad"
+  "analyticsCredits": "Me kasutame {plausible} privaatsussõbralikku analüütikat",
+  "openSource": "Lähtekood on avalik lehel {github}"
 }

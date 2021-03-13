@@ -2,6 +2,8 @@
   "title": "Current restrictions",
   "metaDescription": "Read the restrictions imposed by the Estonian government regarding the COVID-19 pandemic",
   "time": "As of {time}",
+  "sources": "Sources",
   "iconCredits": "Icons made by {eucalyp} from {flaticon}",
-  "sources": "Sources"
+  "analyticsCredits": "We're using privacy-friendly analytics by {plausible}",
+  "openSource": "This page is open source on {github}"
 }
