@@ -5,12 +5,14 @@ import { parse } from "date-fns";
 import styles from "./Page.module.css";
 import { Regulations } from "./Regulations";
 import { Notice } from "./Notice";
+import { Footer } from "./Footer";
 
 export const RegulationPage = ({ regulations, metadata, notice }) => {
   const { locale } = useIntl();
   return (
     <>
       <Meta />
+      <PlausibleAnalytics />
       <div className={styles.container}>
         <Header locale={locale} metadata={metadata} />
         <main className={styles.main}>
@@ -21,23 +23,22 @@ export const RegulationPage = ({ regulations, metadata, notice }) => {
           </h2>
           <Sources sources={metadata.sources} />
         </main>
-        <footer>
-          <small>
-            <FormattedMessage
-              id="iconCredits"
-              values={{
-                eucalyp: (
-                  <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>
-                ),
-                flaticon: <a href="https://www.flaticon.com/">Flaticon</a>,
-              }}
-            />
-          </small>
-        </footer>
+        <Footer />
       </div>
     </>
   );
 };
+
+const PlausibleAnalytics = () => (
+  <Head>
+    <script
+      async
+      defer
+      data-domain="piirangud.ee"
+      src="https://plausible.io/js/plausible.js"
+    />
+  </Head>
+);
 
 const Header = ({ locale, metadata }) => {
   const intl = useIntl();
