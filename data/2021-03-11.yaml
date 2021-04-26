@@ -215,7 +215,7 @@ regulations:
               <li>Professional athletes</li>
               <li>National team members</li>
               <li>National team candidates</li>
-              <li>Those involved with the military defence and internal security of the state</li> 
+              <li>Those involved with the military defence and internal security of the state</li>
               <li>People with special needs and rehabilitation activities</li>
             </ul>
             Members of the second national division teams are not allowed to train indoors.</p>
@@ -227,8 +227,8 @@ regulations:
             <li>Families moving together</li>
             <li>Professional athletes</li>
             <li>Members and candidates of the national team</li>
-            <li>Those involved with the military defence and internal security of the state</li> 
-            <li>People with special needs and rehabilitation activities</li>            
+            <li>Those involved with the military defence and internal security of the state</li>
+            <li>People with special needs and rehabilitation activities</li>
           </ul>
         </p>
         <h3>Sports competitions, and sports and exercise events</h3>
@@ -350,3 +350,17 @@ metadata:
         url: https://www.kriis.ee/ru/deystvuyushchie-ogranicheniya
       - label: Riigi Teataja | Меры и ограничения, необходимые для предотвращения распространения заболевания COVID-19
         url: https://www.riigiteataja.ee/viitedLeht.html?id=9
+
+notice:
+  content:
+    et: Piirangud uuenevad neljapäeval, 26. aprillist. See veebileht uueneb piirangute jõustumisel, seni saab planeeritud piirangutega tutvuda Valitsuse kodulehel.
+    en: Restrictions will be renewed on Thursday, April 26. This website will be updated when the restrictions come into force. In the meantime, the planned restrictions are available on the website of the Government.
+    ru: Ограничения будут обновлены в четверг, 26 апреля. Этот веб-сайт будет обновлен после вступления в силу ограничений; до этого времени с планируемыми ограничениями можно ознакомиться на странице правительства Эстонской Республики.
+  cta:
+    et: Vaata tulevaid piiranguid
+    en: See upcoming restrictions
+    ru: Смотрите предстоящие ограничения
+  url:
+    et: https://www.kriis.ee/et/uudised/valitsus-leevendab-jark-jargult-covid-19-piiranguid-alates-26-aprillist
+    en: https://news.err.ee/1608184081/restrictions-to-be-relaxed-from-april-26
+    ru: https://www.kriis.ee/ru/novosti/pravitelstvo-nachnet-postepenno-smyagchat-ogranicheniya-s-26-aprelya
