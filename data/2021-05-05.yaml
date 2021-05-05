@@ -1,0 +1,149 @@
+regulations:
+  - category: indoors
+    icon: cafe
+    title:
+      et: Avalik ruum
+      en: Public spaces
+      ru: Общественные пространства
+    content:
+      et: |
+        <h3>Alates 11. märtsist tohib avalikus väliruumis koos liikuda mitte rohkem kui kahekesi ja
+        teistest tuleb hoida kahemeetrist vahemaad.</h3>
+        <p>Piirang ei laiene koos liikuvale perele ega olukordadele,
+        kus seda pole võimalik mõistlikult täita. 2+2 reeglit tuleb järgida igal pool avalikus ruumis liikumisel,
+        nii tänavatel, mänguväljakutel, pargis ja parklates, kuid ka looduses liikudes,
+        kui näiteks rabamatkal kohtab teisi inimesi. 2+2 reegel kehtib juba varasemast kõikjal avalikus siseruumis.</p>
+
+        <h3>Maskikohustus</h3>
+        <p>Kohustus kanda maski või katta nina ja suu kehtib avalikes siseruumides, sealhulgas ühistranspordis ning teeninduskohtades (v.a. alla 12-aastastele lapsed või juhul, kui maski kandmine ei ole tervislikel põhjustel, erivajaduse, töö või tegevuse iseloomu tõttu või muid olulisi põhjuseid arvestades võimalik).</p>
+        <p><strong>Avalikuks siseruumiks</strong> on avalikuks kasutamiseks mõeldud ruum, kuhu on võimalik siseneda igal soovijal, sõltumata näiteks eelregistreerimisnõudest; see on koht, kus liigub palju inimesi, kes üksteisega igapäevaselt kokku ei puutu.</p>
+
+        <p><strong>Kaubandus- ja teenindusettevõtted</strong></p>
+        <p>Alates 3. maist tohivad klientide jaoks uksed avada kõik poed, arvestada tuleb 2+2 reeglit ja kuni 25-protsendilist ruumitäitumuse nõuet.</p>
+        <p>Teenindusettevõtete jaoks olemasolevad piirangud ei muutu, see tähendab, et nad tohivad olla avatud, kui järgitakse 2+2 liikumispiirangut ja kuni 25-protsendilist ruumitäitumuse nõuet.</p>
+
+        <p><strong>Toitlustusettevõtted</strong></p>
+        <p>Alates 3. maist tohib toitlustusasutuse välialadel einestada kuni kella 21-ni, arvestada tuleb kuni 50- protsendilise täitumuse nõudega, ühe laudkonna suurus tohib olla maksimaalselt 10 inimest. Endiselt ei tohi kliendid süüa-juua siseruumides toitlustusettevõtete müügi- ja teenindussaalides, toidu kaasamüük jääb lubatuks.</p>
+      en: |
+        <h3>The 2+2 rule will be in force in public outdoor spaces as well. Starting from March 11, no more than two people can move around in a public outdoor space together.</h3>
+        <p>The restriction does not extend to families moving around together or situations where it cannot be reasonably adhered to. The 2+2 rule must be followed everywhere in public spaces, on streets, playgrounds, in parks and parking lots, but also when moving around in nature, for instance when you meet other people on a bog hike. The 2+2 has already been in force in all public indoor spaces.</p>
+
+        <h3>Obligation to wear a mask</h3>
+        <p>The requirement to wear a mask or cover the nose and mouth is in force in public indoor spaces, including in public transportation and service facilities (except for children under the age of 12 or if wearing a mask is not possible due to health considerations, special need, the nature of the work or activity or some other substantial reason).</p>
+        <p><strong>A public indoor space</strong> is a space designated for public use that can be entered by anyone wishing to do so, without, for instance, a requirement to register in advance; it is a space densely populated with people who do not come into daily contact with each other.</p>
+
+        <p><strong>Commercial and service enterprises</strong></p>
+        <p>Starting from May 3, it is allowed to dine in the outdoor areas of catering establishments until 21.00, the 50 percent maximum occupancy rule must be adhered to, and there can be up to 10 people at one table. Customers are still not allowed to eat and drink in the indoor sales and service areas of catering establishments, selling food for takeaway continues to be allowed.</p>
+
+      ru: |
+        <strong>Правило 2+2 начнет действовать в публичных местах и вне помещений</strong>
+        <p>Требование носить маску или закрывать рот и нос в общественных помещениях, в том числе в общественном транспорте и местах обслуживания (за исключением детей младше 12 лет или в случае, когда люди не могут носить маску из соображений здоровья, в силу особых потребностей, характера работы или деятельности либо по иной веской причине). Общественное помещение – это помещение, предназначенное для общественного пользования, доступное любому желающему и не требующее, например, предварительной регистрации; это место, по которому перемещается много людей, не контактирующих друг с другом ежедневно. </p>
+        <p>C 11 марта в публичных местах вне помещений разрешено передвигаться максимум вдвоем, соблюдая с другими окружающими дистанцию не менее двух метров. Ограничение не распространяется на семьи и ситуации, когда его разумное соблюдение не представляется возможным. Правило 2+2 следует соблюдать везде, передвигаясь в общественном пространстве, как на улицах, детских площадках, в парках и на парковках, так и на природе, когда, например, во время похода вы встречаете других людей. Правило 2+2 уже и раньше действовало везде в публичном пространстве внутри помещений.</p>
+        <p><strong>Торговые и обслуживающие предприятия</strong></p>
+        <p>С 3 мая все магазины могут принимать клиентов, обеспечив при этом соблюдение правила «2+2» и 25%-го ограничения заполняемости помещения.</p>
+        <p>Действующие для обслуживающих предприятий ограничения не изменяются, это означает, что они могут быть открытыми при соблюдении правила «2+2» и 25%-го ограничения заполняемости помещения.</p>
+  - category: education
+    icon: school
+    title:
+      et: Haridus
+      en: Education
+      ru: Образование
+    content:
+      et: |
+        <p>Alates 3. maist lubatakse kontaktõppele 1.-4. klassi lapsed ning 9. ja 12. klasside õpilased, samuti kutseõppeasutuse õpilased, kes sooritavad 2020/2021. õppeaastal riigieksameid. Lisaks tõhustatud ning eritoe õpilased. Ülejäänud kooliastmete kontaktõppele lubamist arutab valitsus edaspidi.</p>
+      en: |
+        <p>Starting from May 3, children in grades 1 to 4, students in grades 9 and 12, as well as students of vocational schools who are taking the state exams in the 2020/2021 academic year are allowed to start contact learning. This also applies to students who require enhanced and special support. The Government will consider allowing the other school levels to start contact study during later discussions.</p>
+
+      ru: |
+        <p>С 3 мая к очному обучению допускаются ученики 1-4 классов, ученики 9 и 12 классов, а также студенты профессиональных училищ, сдающие в 2020/2021 году государственные экзамены, и ученики, нуждающиеся в дополнительной или специальной образовательной поддержке. Очное обучение остальных школьных ступеней правительство обсудит позднее.</p>
+
+  - category: sports
+    icon: amusementPark
+    title:
+      et: Sport ja huvitegevus
+      en: Sports, recreation and leisure
+      ru: Спорт, отдых и свободное время
+    content:
+      et: |
+        <p><strong>Sportimine, treenimine, huvitegevus, noorsootöö, täiendkoolitused</strong></p>
+        <p>Alates 3. maist tohib siseruumis kõiki neid tegevusi läbi viia 2+2 reeglit järgides, mis tähendab, et koos tohib treenida kuni kaks inimest ja teistest tuleb hoida vähemalt kahemeetrist vahemaad. Muu hulgas tähendab see, et lubatud on ka paaristrennid, näiteks tennises paarismäng. Samadel tingimustel on lubatud treeningud ka ujulates. Tegevusi läbi viies tuleb arvestada kuni 25-protsendilise ruumitäitumuse piiranguga. Rühmatreeningud ei ole lubatud.</p>
+        <p>Välitingimustes on sportimine, treenimine, noorsootöö, huvitegevus ja -haridus, täiendkoolitus ja -õpe lubatud kuni<strong> 10-liikmelistes rühmades</strong>.</p>
+        <p>Kõikidesse rühmapiirangutesse on kaasa arvatud ka juhendaja ning kui rühmi on rohkem kui üks, ei tohi nad omavahel kokku puutuda. Rühmapiirang ei kehti kontaktõppesse lubatud sama klassi õpilastele ja lasteaia ühe rühma lastele. Samuti ei laiene piirang senistele eranditele, see tähendab professionaalsetele sportlastele, koondise liikmetele ja kandidaatidele, meistri- ja esiliiga sportlastele, riigi sõjalise kaitse ja siseturvalisusega seotud tegevustele.</p>
+
+        <p><strong>Spordivõistlused ning spordi- ja liikumisüritused</strong></p>
+        <p>Alates 3. maist on õues lubatud spordi- ja liikumisüritused maksimaalselt 150-le inimesele, kes peavad olema kuni 10-liikmelistes rühmades (kaasa arvatud juhendaja), rühmad omavahel kokku puutuda ei tohi. Üritus peab lõppema hiljemalt kell 21.</p>
+        <p>Alates 3. maist leevendatakse tippspordi, seal hulgas esiliiga võistlustele kehtinud osavõtjate piirarve, mis tähendab, et sisetingimustes tohib võistlusest koos personaliga osa võtta kuni 100 ja välitingimustes kuni 200 inimest. Pealtvaatajad on kõikidel võistlustel keelatud. Tippspordi võistluste toimumise kellaajale piiranguid ei kehtestata.</p><p class="stratcom-font-size-sm mt-1 mb-1">Viimati uuendatud: 03.05.2021 15:43</p>
+      en: |
+        <p><strong>Sports, training, hobby activities, youth work, refresher training</strong></p>
+        <p>Starting from May 3, all these activities are allowed indoors if the 2+2 rule is adhered to, meaning that up to two people can train together and a distance of at least 2 metres must be kept from others. Among other things this means that training in pairs will be allowed, e.g. doubles' tennis. Training in swimming pools is allowed at the same conditions. A 25 percent occupancy limitation must be kept in mind when carrying out the activities. Group training sessions are not allowed.</p>
+        <p>Outdoor sports, training, youth work, hobby activities and informal education, refresher training are allowed in <strong>groups of up to 10 people</strong>.</p>
+        <p>All group limitations also include an instructor and if there are more groups than one, these groups are not allowed to come into contact with each other. The group limitation does not apply to students in the same class who have been allowed to start contact learning or to children in the same kindergarten group. The limitation also does not apply to the those who were exempt this far, i.e. professional athletes, members and candidates of the national team, athletes in the highest and second national divisions, activities related to the military defence and internal security of the state.</p>
+
+        <p><strong>Sports competitions, and sports and exercise events</strong></p>
+        <p>From May 3, outdoor sports and exercise events are allowed for up to 150 people who must be in groups of up to 10 people (including the instructor) , and the groups may not come into contact with each other. The event must end at 21.00 at the latest.</p>
+        <p>From May 3, the limitation on a number of participants allowed to take part in the top level competitions, including competitions in the highest national division, is also being eased, meaning that indoors, up to 100 persons, including the personnel, may participate in a competition, outdoors up to 200 persons. Spectators are prohibited at all competitions. There are no limitations set to when a top level competition must end.
+      ru: |
+        <p><strong>Занятия спортом, тренировки, неформальное образование, работа с молодежью, дополнительное образование</strong></p>
+        <p>С 3 мая все эти занятия разрешены в помещениях при соблюдении правила «2+2»: это означает, что вместе могут тренироваться до двух человек, держась от окружающих по меньшей мере в двух метрах. Помимо прочего, это означает, что разрешены также парные тренировки, например парная игра в теннис. Те же условия действуют для тренировок в бассейнах. При ведении деятельности нужно соблюдать 25%-е ограничение заполняемости помещения. Групповые тренировки по-прежнему запрещены.</p>
+        <p>Занятия спортом, тренировки, работа с молодежью, неформальное образование и обучение, а также дополнительное образование и обучение под открытым небом разрешается <strong>группами до 10 человек.</strong></p>
+        <p>Все групповые ограничения учитывают наставника, а если групп больше одной, они не должны контактировать между собой. Групповое ограничение не действует для учащихся в одном классе детей, допущенных к очному обучению, и детей из одной группы детского сада. Ограничение также не распространяется на прежние исключения: профессиональных спортсменов, сборные и кандидатов в сборные, игроков первой и высшей лиги, а также на деятельность, связанную с государственной обороной и внутренней безопасностью.</p>
+
+        <p><strong>Спортивные соревнования, спортивные и оздоровительные мероприятия</strong></p>
+        <p>С 3 мая спортивные и оздоровительные мероприятия под открытым небом разрешены не более, чем для 150 человек, поделенных на группы до 10 человек (включая наставника), группы не должны контактировать между собой. Мероприятие должно завершиться не позже 21:00.</p>
+        <p>С 3 мая будут также смягчены ограничения для большого спорта, включая соревнования первой лиги. Это означает, что в соревнованиях, которые проводятся в помещении, смогут принимать участие до 100 человек, включая персонал, а под открытым небом - до 200 человек. Зрители и болельщики не допускаются, независимо от вида соревнований. Время проведения соревнований профессиональных спортсменов не ограничено.</p>  - category: events
+  - category: events
+    icon: city
+    title:
+      et: Avalikud üritused ja vaba aeg
+      en: Public events
+      ru: Публичные мероприятия
+    content:
+      et: |
+        <p><strong>Jumalateenistused, muuseumid, näitusasutused</strong></p>
+        <p>Alates 3. maist tohib külastada siseruumides muuseume ja näitusasutusi arvestades 2+2 liikumispiirangut ja 25-protsendilise ruumitäitumust. Muuseumite ja näituste uksed tuleb sulgeda kell 19. Sama liikumispiirangut, ruumitäitumust ja sulgemisaega arvestades tohib korraldada ka jumalateenistusi ning teisi avalikke usulisi talitusi.</p>
+
+        <p><strong>Välitingimustes avalikud üritused ja koosolekud</strong></p>
+        <p>Alates 3. maist on välitingimustes lubatud maksimaalselt 150-le inimesele avalikud koosolekud ja jumalateenistused ning kõik muud avalikud üritused nii kultuuri- kui meelelahutusvaldkonnas. Inimesed peavad olema kuni 10 liikmelistes rühmades, kes omavahel kokku ei puutu. Kõik üritused peavad lõppema õhtul kell 21.</p>
+
+        <p><strong>Meelelahutusvaldkond</strong></p>
+        <p>Kõik teised siseruumides toimuvad avalikud kultuuri- ja meelelahutussündmused, sh kinoseansid, kontserdid, teatrietendused, konverentsid on jätkuvalt keelatud. Samuti ei tohi viibida meelelahutusteenuse osutamise kohtades, nt kasiinos, ööklubis, keegli- või piljardisaalis ega laste mängutoas. Spaad, saunad, veekeskused ja ujulad jäävad samuti suletuks, välja arvatud sportimiseks ette nähtud tingimustel.</p>
+      en: |
+        <p><strong>Worship services, museums, exhibition venues</strong></p>
+        <p>Starting from May 3, it is allowed to visit indoor museums and exhibition venues, if the 2+2 movement restriction and 25 percent maximum occupancy rule are adhered to. Museums and exhibition venues must close their doors by 19.00. It is also allowed to hold worship services and other public religious services if the same movement restrictions, occupancy limits and closing time are adhered to.</p>
+
+        <p><strong>Outdoor public events and meetings</strong></p>
+        <p>Starting from May 3, it is allowed to hold outdoor public meetings and worship services, and all other public events in both the fields of culture and entertainment for a maximum on 150 people. People must stay in groups of up to 10 people who do not come into contact with each other. All events must end by 21.00 in the evening.</p>
+
+        <p><strong>Entertainment</strong></p>
+        <p>All other indoor public culture and entertainment events, including cinema showings, concerts, theatre performances, conferences continue to be prohibited. It is also not allowed to be in locations where entertainment services are provided, e.g. a casino, a night club, a bowling or pool hall, or a children's playroom. Spas, saunas, water parks and swimming pools will also remain closed, except on the conditions set for doing sports.</p>
+      ru: |
+        <p><strong>Заведения общепита </strong></p>
+        <p>С 3 мая можно обслуживать посетителей на уличных террасах до 21:00. При этом нужно соблюдать 50%-е ограничение заполняемости, а за одним столом могут находиться не более 10 человек. Посетителям по-прежнему запрещено употреблять еду и напитки в торговых и сервисных залах заведений общепита. Торговля едой навынос разрешена.</p>
+
+        <p><strong>Богослужения, музеи и выставки</strong></p>
+        <p>С 3 мая разрешается посещение музеев и выставок в помещениях при соблюдении правила «2+2» и 25%-го ограничения заполняемости помещения. Музеи и выставки должны закрываться в 19:00. Соблюдая все ограничения и время закрытия, можно также проводить богослужения и другие религиозные обряды.</p>
+
+        <p><strong>Общественные мероприятия и собрания на открытом воздухе</strong></p>
+        <p>С 3 мая под открытым небом общественные собрания и богослужения, а также другие общественные мероприятия в культурно-развлекательной сфере разрешены не более, чем для 150 человек, поделенных на группы до 10 человек, которые не должны контактировать между собой. Все мероприятия должны завершаться не позже 21:00.</p>
+
+        <p><strong> Развлекательная сфера</strong></p>
+        <p>Проведение всех других общественных культурно-развлекательных мероприятий, включая киносеансы, концерты, театральные представления и конференции, по-прежнему запрещено. Нельзя посещать культурно-развлекательные учреждения, к примеру казино, ночные клубы, залы для игры в кегельбан или бильярд, а также детские игровые комнаты. Спа-центры, сауны, водные центры и бассейны также будут закрыты, за исключением случаев, предусматривающих занятия спортом.</p>
+
+metadata:
+  lastUpdated: 2021-05-05 00:00
+  sources:
+    et:
+      - label: Kriis.ee | Piirangud igapäevaelus sh kaubanduskeskused, ühistransport, meelelahutus, kirikud, perekondlikud sündmused
+        url: https://kkk.kriis.ee/et/kkk/piirangud-igapaevaelus
+      - label: Riigi Teataja | Meetmed koroonaviiruse SARS-CoV-2 leviku tõkestamiseks
+        url: https://www.riigiteataja.ee/viitedLeht.html?id=7
+    en:
+      - label: Kriis.ee | Restrictions in everyday life, including shopping centres, public transport, entertainment, family events
+        url: https://kkk.kriis.ee/en/faq/restrictions-in-everyday-life
+      - label: Riigi Teataja | Measures and restrictions necessary for preventing the spread of COVID-19
+        url: https://www.riigiteataja.ee/viitedLeht.html?id=8
+    ru:
+      - label: Kriis.ee | Повседневные ограничения, включая торговые центры, общественный транспорт, развлечения, семейные праздники
+        url: https://kkk.kriis.ee/ru/czv/povsednevnye-ogranicheniya
+      - label: Riigi Teataja | Меры и ограничения, необходимые для предотвращения распространения заболевания COVID-19
+        url: https://www.riigiteataja.ee/viitedLeht.html?id=9
